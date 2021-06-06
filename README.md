@@ -16,3 +16,8 @@
 - [JS Immutability](./JS/JS-Immutability.md)
 - [Immutable value vs mutable value](./JS/Immutable-value-vs-mutable-value.md)
 - [Immutable Data Pattern](./JS/Immutable-Data-Pattern.md)
+
+
+## Redux
+---
+- [Redux 여행의 지도](./React/Redux-여행의-지도.md)
