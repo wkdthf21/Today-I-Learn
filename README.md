@@ -10,3 +10,7 @@
 - [ES6 module system](./JS/module-system.md)
 
 <br>
+
+## JavaScript Immutability
+---
+- [JS Immutability](./JS/JS-Immutability.md)
