@@ -14,3 +14,4 @@
 ## JavaScript Immutability
 ---
 - [JS Immutability](./JS/JS-Immutability.md)
+- [Immutable value vs mutable value](./JS/Immutable-value-vs-mutable-value.md)
