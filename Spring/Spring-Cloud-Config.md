@@ -16,6 +16,7 @@
 - Spring Cloud Config Client
     - Config Server에 접근할 수 있도록 도와줌
 
+    [이미지 추가]
     ![](images/2021-06-10-11-18-10.png)
 
 - MSA 서비스들이 Spring Cloud Config Client를 통해 Spring Cloud Config Server와 통신
