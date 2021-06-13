@@ -22,6 +22,7 @@
 ## Redux
 ---
 - [Redux 여행의 지도](./React/Redux-여행의-지도.md)
+- [Redux 프로젝트 구조](./React/Redux-프로젝트-구조.md)
 
 <br>
 
