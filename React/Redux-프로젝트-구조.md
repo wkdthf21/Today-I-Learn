@@ -34,3 +34,24 @@
 - combineReducers 사용해서 rootReducer 만들기
 - middele ware 설정
     - redux-thunk
+
+
+<br>
+
+## 구조
+---
+```
+components/
+containers/
+store/
+├── index.js # 스토어 생성 후 내보냄
+├── actions/
+│   ├── index.js # 액션 내보냄
+│   ├── actionTypes.js 
+│   ├── counter.js
+│   └── todos.js
+└── reducers/
+    ├── index.js # 루트 리듀서 생성 후 내보냄
+    ├── counter.js
+    └── todos.js
+```
