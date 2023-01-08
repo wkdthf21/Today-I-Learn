@@ -1,4 +1,4 @@
-# Props & Childern
+# Props
 ---
 ## Props 사용법
 ---
