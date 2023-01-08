@@ -38,6 +38,7 @@
 - [Redux 여행의 지도](./React/Redux-여행의-지도.md)
 - [Redux 프로젝트 구조](./React/Redux-프로젝트-구조.md)
 - [React Dev Tool](./React/React-Dev-Tool.md)
+- [Props](./React/Props.md)
 
 <br>
 
