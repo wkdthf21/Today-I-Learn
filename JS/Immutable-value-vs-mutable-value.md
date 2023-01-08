@@ -19,8 +19,8 @@ var statement = "string is an immutable value";
 
 var otherStr = statement.slice(13, 22);
 
-console.log(statement); // immutable
-console.log(otherStr); // string is an immutble value
+console.log(statement); // string is an immutble value
+console.log(otherStr); // immutable
 ```
 
 - 문자열을 변경할 수 없는 immutable value
